@@ -1,9 +1,12 @@
-[![image](https://github.com/user-attachments/assets/bc3d9077-b19d-4d61-a7a3-7b68737e6980)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 ## Hi there 👋
 
-<!--
-**Danish2336/Danish2336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+
+### My Experties:
+
+### My Projects:
 
 Here are some ideas to get you started:
 
@@ -13,6 +16,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
