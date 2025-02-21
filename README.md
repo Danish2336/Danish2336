@@ -1,3 +1,5 @@
+[![image](https://github.com/user-attachments/assets/bc3d9077-b19d-4d61-a7a3-7b68737e6980)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 ## Hi there 👋
 
 <!--
